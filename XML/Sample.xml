@@ -1,0 +1,38 @@
+  <Localisation Key="TEXT_BONUS_CONTENT_CNC_RA_ENTRY_9_TITLE">
+    <TranslationData>
+      <Translation Language="ENGLISH"><![CDATA[GREEN BACKGROUND PUBLICITY SHOTS ]]></Translation>
+    </TranslationData>
+  </Localisation>
+  <Localisation Key="TEXT_CINE_PROLOG_LINE19">
+    <TranslationData>
+      <Translation Language="ENGLISH"><![CDATA[[♪♪♪] [HELL MARCH] [♪♪♪]]]></Translation>
+    </TranslationData>
+  </Localisation>
+  <Localisation Key="TEXT_CINE_ALLIED12_LINE1">
+    <TranslationData>
+      <Translation Language="ENGLISH"><![CDATA[[STATIC]]]></Translation>
+    </TranslationData>
+  </Localisation>
+<Localisation Key="TEXT_CINE_GDI_6_LINE5">
+    <TranslationData>
+      <Translation Language="ENGLISH"><![CDATA[CARTER
+ and get the hell back out??[STATIC]]]></Translation>
+    </TranslationData>
+  </Localisation>
+<Localisation Key="TEXT_COMMAND_RA_SOVIET_BUILD_UNIT_MIG">
+    <TranslationData>
+      <Translation Language="ENGLISH"><![CDATA[Soviet Vehicle - Mig]]></Translation>
+    </TranslationData>
+  </Localisation>
+  <Localisation Key="TEXT_CINE_NOD_END4_LINE10">
+    <TranslationData>
+      <Translation Language="ENGLISH"><![CDATA[NEWS ANCHOR
+ continued to sift through the rubble, ]]></Translation>
+    </TranslationData>
+  </Localisation>
+  <Localisation Key="TEXT_CINE_TBRINFO1_LINE13">
+    <TranslationData>
+      <Translation Language="ENGLISH"><![CDATA[REPORTER
+ to recent reports of Tiberium poisoning in humans, remains to be seen. ]]></Translation>
+    </TranslationData>
+  </Localisation>
