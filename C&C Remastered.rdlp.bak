@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <RadialixLocalizerProject>
   <Header FileVersion="19" Guid="{599C4486-8A83-44EC-A140-DFF39148502A}"/>
-  <IDESettings ProjectItemPath="0.TranslationManifest.xml (translationmanifest.xml)" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
-    <StringTableSettings FocusedValueID="#0.TEXT_ACCEPT" SortDirection="1" SortedColumnIndex="0"/>
+  <IDESettings ProjectItemPath="0.TranslationManifest.xml (translationmanifest.xml).STRINGS.#0" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
+    <StringTableSettings FocusedValueID="#0.TEXT_MOD_NAME" SortDirection="1" SortedColumnIndex="0"/>
     <TextTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <AccelTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <ImageTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
@@ -15,7 +15,7 @@
     </Languages>
     <Info>
       <CreatedBy Date="2020-09-27T20-22-48">Radialix Version 3.00.00  Build 486</CreatedBy>
-      <ModifiedBy Date="2020-09-28T02-11-41">Radialix Version 3.00.00  Build 486</ModifiedBy>
+      <ModifiedBy Date="2020-09-28T04-10-35">Radialix Version 3.00.00  Build 486</ModifiedBy>
       <Author/>
       <Organization/>
       <Comment/>
@@ -1308,8 +1308,8 @@
           </Vl>
           <Vl Name="TEXT_MOD_TO_FONT_B_NAME">
             <Src CodePage="65001">RA_Orbitron</Src>
-            <Trg Created="2020-09-27T20-30-49" Changed="2020-09-27T22-54-50" Translated="2020-09-27T22-55-24" State="Validated">
-              <cur>예스체</cur>
+            <Trg Created="2020-09-27T20-30-49" Changed="2020-09-28T03-08-55" Translated="2020-09-28T03-08-55" State="Validated">
+              <cur>NIXGONFONTS V2.0</cur>
             </Trg>
           </Vl>
           <Vl Name="TEXT_BONUS_CONTENT_CNC_RA_ENTRY_23_TITLE">
@@ -31131,8 +31131,8 @@
           </Vl>
           <Vl Name="TEXT_MOD_TO_FONT_A_NAME">
             <Src CodePage="65001">RussellSquare</Src>
-            <Trg Created="2020-09-27T20-30-49" Changed="2020-09-28T01-56-12" Translated="2020-09-28T01-56-12" State="Validated">
-              <cur>닉스곤체 M 2.0</cur>
+            <Trg Created="2020-09-27T20-30-49" Changed="2020-09-28T03-08-25" Translated="2020-09-28T03-08-25" State="Validated">
+              <cur>YES24</cur>
             </Trg>
           </Vl>
           <Vl Name="TEXT_NAME_MP_77_MAROONED">
@@ -46056,8 +46056,8 @@
           </Vl>
           <Vl Name="TEXT_MOD_TO_FONT_C_NAME">
             <Src CodePage="65001">Roboto Condensed</Src>
-            <Trg Created="2020-09-27T20-30-49" Changed="2020-09-27T23-02-30" Translated="2020-09-27T23-02-30" State="Validated">
-              <cur>Noto Sans CJK TC Regular</cur>
+            <Trg Created="2020-09-27T20-30-49" Changed="2020-09-28T03-12-12" Translated="2020-09-28T03-12-12" State="Validated">
+              <cur>NEXON Football Gothic L</cur>
             </Trg>
           </Vl>
           <Vl Name="TEXT_BONUS_CONTENT_CNC_RA_ENTRY_114_TITLE">

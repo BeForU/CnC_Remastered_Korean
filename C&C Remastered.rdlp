@@ -2,7 +2,7 @@
 <RadialixLocalizerProject>
   <Header FileVersion="19" Guid="{599C4486-8A83-44EC-A140-DFF39148502A}"/>
   <IDESettings ProjectItemPath="0.TranslationManifest.xml (translationmanifest.xml).STRINGS.#0" SelectedTable="StringsTabSheet" SelectedVisualDesigner="">
-    <StringTableSettings FocusedValueID="#0.TEXT_MOD_TO_FONT_B_BOLD" SortDirection="1" SortedColumnIndex="0"/>
+    <StringTableSettings FocusedValueID="#0.TEXT_MOD_LOCATION" SortDirection="1" SortedColumnIndex="0"/>
     <TextTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <AccelTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
     <ImageTableSettings FocusedValueID="" SortDirection="0" SortedColumnIndex="-1"/>
@@ -15,14 +15,14 @@
     </Languages>
     <Info>
       <CreatedBy Date="2020-09-27T20-22-48">Radialix Version 3.00.00  Build 486</CreatedBy>
-      <ModifiedBy Date="2020-09-28T03-12-20">Radialix Version 3.00.00  Build 486</ModifiedBy>
+      <ModifiedBy Date="2020-09-28T04-11-00">Radialix Version 3.00.00  Build 486</ModifiedBy>
       <Author/>
       <Organization/>
       <Comment/>
       <WebSite/>
       <ContactEMail/>
       <Copyright/>
-      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="41" AutoIncrementBuildNumber="1"/>
+      <Version MajorNumber="1" MinorNumber="0" Revision="0" Build="42" AutoIncrementBuildNumber="1"/>
     </Info>
     <Publisher>
       <ApplicationName>&lt;Title&gt; &lt;WinCode&gt;</ApplicationName>
@@ -967,7 +967,7 @@
         <XLSFile FileName="" SortData="1" SkipDuplicates="1" RemoveAccelerators="1" RemoveAccelKeys="1" CaseSensitive="0" Header="1">
           <RemoveChars IncludeSpace="1" IncludeControlChars="1" IncludeChars="1">-+Ђ$=_.,;:/\*#@¤~^|</RemoveChars>
         </XLSFile>
-        <Filters State="Untranslated" Deleted="NoCheck" Ignored="NoCheck" ReadOnly="NoCheck" New="NoCheck" DontCheck="NoCheck" Errors="NoCheck" ShortStrings="0" MinLength="20">
+        <Filters State="NoCheck" Deleted="NoCheck" Ignored="NoCheck" ReadOnly="NoCheck" New="NoCheck" DontCheck="NoCheck" Errors="NoCheck" ShortStrings="0" MinLength="20">
           <ChangedFrom Enabled="0" Value="2020-09-27T10-41-29"/>
           <ChangedTo Enabled="0" Value="2020-09-27T10-41-29"/>
           <TranslatedFrom Enabled="0" Value="2020-09-27T10-41-29"/>
@@ -57104,7 +57104,7 @@
         <XLSFile FileName="" SortData="1" SkipDuplicates="1" RemoveAccelerators="1" RemoveAccelKeys="1" CaseSensitive="0" Header="1">
           <RemoveChars IncludeSpace="1" IncludeControlChars="1" IncludeChars="1">-+Ђ$=_.,;:/\*#@¤~^|</RemoveChars>
         </XLSFile>
-        <Filters State="Untranslated" Deleted="NoCheck" Ignored="NoCheck" ReadOnly="NoCheck" New="NoCheck" DontCheck="NoCheck" Errors="NoCheck" ShortStrings="0" MinLength="20">
+        <Filters State="NoCheck" Deleted="NoCheck" Ignored="NoCheck" ReadOnly="NoCheck" New="NoCheck" DontCheck="NoCheck" Errors="NoCheck" ShortStrings="0" MinLength="20">
           <ChangedFrom Enabled="0" Value="2020-09-27T10-41-29"/>
           <ChangedTo Enabled="0" Value="2020-09-27T10-41-29"/>
           <TranslatedFrom Enabled="0" Value="2020-09-27T10-41-29"/>
